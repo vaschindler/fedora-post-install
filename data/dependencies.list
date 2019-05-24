@@ -1,4 +1,9 @@
-curl
-wget
-newt
-xterm
+autofs
+subversion
+dnf-utils
+general-purpose-preprocessor
+python2-yaml
+python2-cheetah
+p7zip-plugins python2-keyring python2-pysvn genisoimage
+p7zip
+git
